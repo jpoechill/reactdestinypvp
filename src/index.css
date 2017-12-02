@@ -1,0 +1,38 @@
+body {
+  margin-top: 14px;
+  background-color: #fff;
+}
+
+.title:hover {
+  text-decoration: none;
+}
+
+.source-link {
+  color: #d0011b;
+}
+
+.header-link {
+  color: #4990e2;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.header-link:hover {
+  color: #014B8C;
+  font-weight: 600;
+}
+
+.active {
+  color: #d0011b !important;
+}
+
+a {
+  color: #4990e2;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+a:hover {
+  color: #014B8C;
+  font-weight: 600;
+}
